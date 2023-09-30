@@ -1,0 +1,1 @@
+Os elementos básicos de um jogo podem variar dependendo do tipo de jogo, mas existem alguns componentes fundamentais que são comuns à maioria dos jogos. Aqui estão os elementos básicos que você pode encontrar em um jogo:
